@@ -1,0 +1,8 @@
+{
+  "name": "New Test",
+  "email": "newtest@nt.com",
+  "phone_number": "18001231235",
+  "city": "Cupertino",
+  "state": "California",
+  "company_type": "factory"
+}

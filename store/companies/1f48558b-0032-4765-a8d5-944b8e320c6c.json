@@ -1,0 +1,8 @@
+{
+  "name": "Test Brand",
+  "email": "testbrand@tb.com",
+  "phone_number": "18001234567",
+  "city": "Palo Alto",
+  "state": "California",
+  "company_type": "brand"
+}
